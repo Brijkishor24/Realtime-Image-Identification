@@ -1,0 +1,16 @@
+.heading{
+    font-size:30px;
+    width:100%;
+    box-shadow:5px 10px 15px chartreuse;
+}
+.heading_div{
+    float:none;
+    background: white;
+    padding:10px;
+    border-radius:20px;
+    color:darkmagenta;
+    box-shadow:5px 10px 15px gold;
+}
+.heading_div2{
+    font-size:20px;
+}
